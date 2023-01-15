@@ -1,1 +1,3 @@
 # Chat
+CS VERSION
+CUSTOM
